@@ -7,7 +7,7 @@ documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: USFWS/alaska_im_planning
+github-repo: mccrea-cobb/im-ak-survey-implementation-plan
 url: 'foo.com'
 description: "The Alaska regional Inventory and Monitoring Survey Implementation Plan."
 ---

@@ -1,2 +1,4 @@
 introduction
-diving-in
+selecting-a-priority-resource-of-concern
+defining-the-problem
+state-the-goal
