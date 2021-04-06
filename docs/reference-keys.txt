@@ -2,3 +2,8 @@ introduction
 selecting-a-priority-resource-of-concern
 defining-the-problem
 state-the-goal
+problem-statement
+objectives
+strategic-improve-natural-resource-management-decision-making-for-alaska-national-wildlife-refuges-while-building-scientific-knowledge-for-future-management-decision-challenges.-decisions-include-selecting-priority-resources-setting-management-objectives-identifying-information-needs-selecting-natural-resource-surveys-and-identifying-management-actions.
+fundamental-maximize-the-transparency-of-the-decision-making-process-and-associated-products.
+strategy-use-sdm-to-guide-decision-making

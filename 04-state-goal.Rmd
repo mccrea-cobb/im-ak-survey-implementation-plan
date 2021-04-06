@@ -1,3 +1,3 @@
 # State the Goal
 
-more blah
+Next, Refuge staff, with support from I&M, will draft a goal statement for the pROC. This will be completed in a workshop setting, often combined with Step 2. The goal statement is equivalent to a Fundamental Objective in SDM. It is defined as a “a descriptive, open-ended, and often broad statement of desired future conditions that conveys a purpose, but does not define measurable units” (USFWS Goals and Objectives Handbook 2004). It is visionary, not SMART;  it’s what we care about “just because” and it captures our values by making clear connections between a refuge’s vision and CCP goals/objectives. 
