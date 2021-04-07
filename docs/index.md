@@ -1,6 +1,5 @@
 --- 
 title: "The Alaska I&M Survey Implementation Plan"
-author: "Alaska I&M Team"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
@@ -11,6 +10,7 @@ url: 'https://mccrea-cobb.github.io/im-ak-survey-implementation-plan/'
 description: "The Alaska regional Inventory and Monitoring Survey Implementation Plan."
 ---
 
-# Preface {-}
+# {-}
 
-A short description of the plan goes here.
+<img src="images/where.jpeg" width="400" style="display: block; margin: auto;" />
+
