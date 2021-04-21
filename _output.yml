@@ -2,6 +2,9 @@ bookdown::gitbook:
   css: style.css
   split_by: chapter
   config:
+    download: null
+    toolbars:
+      download: [".pdf"]
     toc:
       collapse: subsection
       before: |
@@ -12,6 +15,6 @@ bookdown::pdf_book:
   includes:
     in_header: preamble.tex
   latex_engine: xelatex
-  citation_package: natbib
+  citation_package: biblatex
 bookdown::epub_book:
   stylesheet: style.css

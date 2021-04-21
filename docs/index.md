@@ -7,10 +7,8 @@ biblio-style: apalike
 link-citations: yes
 github-repo: mccrea-cobb/im-ak-survey-implementation-plan
 url: 'https://mccrea-cobb.github.io/im-ak-survey-implementation-plan/'
-description: "The Alaska regional Inventory and Monitoring Survey Implementation Plan."
+description: "A guide to creating surveys for priority resources of concern at National Wildlife Refuges in Alaska"
+cover-image: "images/where.jpeg"
 ---
 
 # {-}
-
-<img src="images/where.jpeg" width="400" style="display: block; margin: auto;" />
-
