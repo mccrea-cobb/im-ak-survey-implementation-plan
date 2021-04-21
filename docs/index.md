@@ -12,4 +12,4 @@ description: "A guide to creating surveys for priority resources of concern at N
 
 # {-}
 
-<img src="docs/images/where.jpeg" width="75%" />
+<img src="images/where.jpeg" width="75%" />

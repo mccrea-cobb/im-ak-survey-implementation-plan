@@ -13,5 +13,5 @@ description: "A guide to creating surveys for priority resources of concern at N
 # {-}
 
 ```{r cover-image, echo=FALSE, out.width="75%"}
-knitr::include_graphics("docs/images/where.jpeg")
+knitr::include_graphics("images/where.jpeg")
 ```
