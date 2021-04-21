@@ -2,7 +2,7 @@
 
 ## Problem Statement {-#problem-statement}
 
-The Alaska I&M team needs a transparent, defensible, consistent and detailed process for developing and documenting SMART management objectives for priority Resources of Concern and completing Inventory and Monitoring Plans for each of 9 Alaska refuge complexes by September 2023 that clearly fits into an adaptive management framework.   
+The Alaska I&M team needs a transparent, defensible, consistent and detailed process for developing and documenting SMART management objectives for priority Resources of Concern and completing Inventory and Monitoring Plans for each of 9 Alaska refuge complexes by September 2023 that clearly fits into an adaptive management framework.
 
 ## Objectives {-#objectives}
 
