@@ -3,12 +3,10 @@ bookdown::gitbook:
   split_by: chapter
   config:
     download: null
-    toolbars:
-      download: [".pdf"]
     toc:
       collapse: subsection
       before: |
-        <li><a href="./">Alaska Region I&M Program</a></li>
+        <li><a href="./">Alaska Region</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 bookdown::pdf_book:

@@ -8,7 +8,10 @@ link-citations: yes
 github-repo: mccrea-cobb/im-ak-survey-implementation-plan
 url: 'https://mccrea-cobb.github.io/im-ak-survey-implementation-plan/'
 description: "A guide to creating surveys for priority resources of concern at National Wildlife Refuges in Alaska"
-cover-image: "images/where.jpeg"
 ---
 
 # {-}
+
+```{r cover-image, echo=FALSE, out.width="75%"}
+knitr::include_graphics("docs/images/where.jpeg")
+```
