@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.4.26)  27 APR 2021 09:39
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.4.26)  27 APR 2021 15:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -892,16 +892,16 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 ]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 275.
+(hyperref)                be the same. Added a new anchor on input line 279.
 
-[7] [8
+[7] [8] [9
 
-] [9] [10
+] [10
 
 ] [11] [12
 
 ]
-Underfull \hbox (badness 2005) in paragraph at lines 350--352
+Underfull \hbox (badness 2005) in paragraph at lines 363--365
 []\T1/lmr/m/n/10 Identify key re-source at-tributes and prin-ci-pal ex-ter-nal 
 drivers im-por-tant to achiev-ing the 
  []
@@ -909,7 +909,7 @@ drivers im-por-tant to achiev-ing the
 [13] [14
 
 ]
-Underfull \hbox (badness 1783) in paragraph at lines 365--366
+Underfull \hbox (badness 1783) in paragraph at lines 378--379
 []\T1/lmr/m/n/10 SMART man-age-ment ob-jec-tives are con-sid-ered means ob-jec-
 tives in that they are the means by 
  []
@@ -934,13 +934,13 @@ See the caption package documentation for explanation.
 [23] (./im-ak-survey-implementation-plan.aux)
 Package rerunfilecheck Info: File `im-ak-survey-implementation-plan.out' has no
 t changed.
-(rerunfilecheck)             Checksum: FD4CB24A208732AA67C2E6FA8E3879B3;3205.
+(rerunfilecheck)             Checksum: C7803EF1D584CEFEE6C5F2F263F85325;3268.
  ) 
 Here is how much of TeX's memory you used:
- 14535 strings out of 478918
- 223284 string characters out of 5864811
- 541952 words of memory out of 5000000
- 34093 multiletter control sequences out of 15000+600000
+ 14538 strings out of 478918
+ 223336 string characters out of 5864811
+ 542095 words of memory out of 5000000
+ 34096 multiletter control sequences out of 15000+600000
  458608 words of font info for 72 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  83i,7n,88p,807b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
