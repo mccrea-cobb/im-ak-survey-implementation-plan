@@ -2,16 +2,27 @@ bookdown::gitbook:
   css: style.css
   split_by: chapter
   config:
+    toc:
+      before: |
+        <li><a href="./">AK Survey Implementation Guide</a></li>
+      after: |
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+    view: |
+      https://github.com/mccrea-cobb/im-ak-survey-implementation-plan/blob/master/%s
+    edit: |
+      https://github.com/mccrea-cobb/im-ak-survey-implementation-plan/edit/master/%s
     download: null
+    sharing: 
+      facebook: false
+      twitter: false
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
     toc:
       collapse: subsection
       before: |
         <li><a href="./">Alaska Region</a></li>
-      after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-bookdown::pdf_book:
-  includes:
-    in_header: preamble.tex
+    before_body: frontpage.tex
   latex_engine: xelatex
   citation_package: biblatex
 bookdown::epub_book:
