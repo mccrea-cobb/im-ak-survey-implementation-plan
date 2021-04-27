@@ -1,4 +1,5 @@
 --- 
+pdf-title: "Survey Implementation Plan"
 title: "The Alaska I&M Survey Implementation Plan"
 site: bookdown::bookdown_site
 documentclass: book
@@ -11,7 +12,3 @@ description: "A guide to creating surveys for priority resources of concern at N
 ---
 
 # {-}
-
-```{r cover-image, echo=FALSE, out.width="75%"}
-knitr::include_graphics("images/where.jpeg")
-```

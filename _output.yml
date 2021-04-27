@@ -23,6 +23,7 @@ bookdown::pdf_book:
       before: |
         <li><a href="./">Alaska Region</a></li>
     before_body: frontpage.tex
+  template: template.tex
   latex_engine: xelatex
   citation_package: biblatex
 bookdown::epub_book:
