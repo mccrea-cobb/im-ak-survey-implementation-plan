@@ -1,5 +1,7 @@
 # Introduction {-#introduction}
 
+**"Decisions require the integration of science with values, because in the end any decision is an attempt to achieve some future condition that is desirable to the decision maker" -Runge et al. 2013**
+
 ## Problem Statement {-#problem-statement}
 
 The Alaska I&M team needs a transparent, defensible, consistent and detailed process for developing and documenting SMART management objectives for priority Resources of Concern and completing Inventory and Monitoring Plans for each of 9 Alaska refuge complexes by September 2023 that clearly fits into an adaptive management framework.
