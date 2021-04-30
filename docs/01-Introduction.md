@@ -2,15 +2,11 @@
 
 **"Decisions require the integration of science with values, because in the end any decision is an attempt to achieve some future condition that is desirable to the decision maker" -Runge et al. 2013**
 
-## Problem Statement {-#problem-statement}
-
-The Alaska I&M team needs a transparent, defensible, consistent and detailed process for developing and documenting SMART management objectives for priority Resources of Concern and completing Inventory and Monitoring Plans for each of 9 Alaska refuge complexes by September 2023 that clearly fits into an adaptive management framework.
+This guide describes a transparent, defensible, consistent, and detailed process for developing and documenting SMART management objectives for priority Resources of Concern and completing Inventory and Monitoring Plans for refuge complexes that clearly fits into an adaptive management framework. 
 
 ## Objectives {-#objectives}
 
-What are the goals of refuge planning? … To provide a basis for adaptive management by monitoring progress, evaluating plan implementation, and updating refuge plans accordingly. – 602 FW 1 
-
-Below are a list of objectives for the I&M Planning team.  Objectives with a (*) crosswalk with our I&M Strategic Plan. 
+The goal of refuge planning is to provide a basis for adaptive management by monitoring progress, evaluating plan implementation, and updating refuge plans accordingly (602 FW 1). Below are a list of objectives for the Alaska I&M Planning team.
 
 - Strategic:  Improve natural resource management decision-making for Alaska National Wildlife Refuges while building scientific knowledge for future management decision challenges.  Decisions include selecting priority resources, setting management objectives, identifying information needs, selecting natural resource surveys and identifying management actions. 
 - Fundamental: Maximize the transparency of the decision-making process and associated products. 

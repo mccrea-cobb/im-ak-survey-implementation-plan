@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.4.26)  29 APR 2021 10:09
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.4.26)  30 APR 2021 13:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -718,11 +718,7 @@ File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
 \g__pdf_backend_object_int=\count314
 \g__pdf_backend_annotation_int=\count315
 \g__pdf_backend_link_int=\count316
-) (./im-ak-survey-implementation-plan.aux
-
-LaTeX Warning: Label `stakeholders' multiply defined.
-
-)
+) (./im-ak-survey-implementation-plan.aux)
 \openout1 = `im-ak-survey-implementation-plan.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 144.
@@ -887,20 +883,26 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 ]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 179.
+(hyperref)                be the same. Added a new anchor on input line 181.
 
-[3] [4] [5
+[3] [4
 
-] [6
+] [5] [6
 
-] [7] [8] [9
+]
+Underfull \hbox (badness 1454) in paragraph at lines 277--278
+[]\T1/lmr/m/n/10 A []pROC[] is, by def-i-ni-tion, im-por-tant to a refuge. In t
+his step, we spec-ify what makes the []pROC[] 
+ []
+
+[7] [8] [9
 
 ] [10
 
 ] [11] [12
 
 ]
-Underfull \hbox (badness 2005) in paragraph at lines 374--376
+Underfull \hbox (badness 2005) in paragraph at lines 382--384
 []\T1/lmr/m/n/10 Identify key re-source at-tributes and prin-ci-pal ex-ter-nal 
 drivers im-por-tant to achiev-ing the 
  []
@@ -908,7 +910,7 @@ drivers im-por-tant to achiev-ing the
 [13] [14
 
 ]
-Underfull \hbox (badness 1783) in paragraph at lines 389--390
+Underfull \hbox (badness 1783) in paragraph at lines 397--398
 []\T1/lmr/m/n/10 SMART man-age-ment ob-jec-tives are con-sid-ered means ob-jec-
 tives in that they are the means by 
  []
@@ -922,13 +924,14 @@ tives in that they are the means by
 ] [21] [22
 
 ] [23]
-Underfull \hbox (badness 1199) in paragraph at lines 548--549
+Underfull \hbox (badness 1199) in paragraph at lines 556--557
 []\T1/lmr/bx/n/10 S\T1/lmr/m/n/10 pecific, \T1/lmr/bx/n/10 M\T1/lmr/m/n/10 easu
 rable, \T1/lmr/bx/n/10 A\T1/lmr/m/n/10 chievable, \T1/lmr/bx/n/10 R\T1/lmr/m/n/
 10 esults-oriented, and \T1/lmr/bx/n/10 T\T1/lmr/m/n/10 ime-fixed. De-fined in 
 []``Writ-ing Refuge 
  []
 
+[24]
 
 Package caption Warning: Unused \captionsetup[table] on input line 15.
 See the caption package documentation for explanation.
@@ -937,21 +940,20 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[figure] on input line 16.
 See the caption package documentation for explanation.
 
-[24] (./im-ak-survey-implementation-plan.aux)
+[25
 
-LaTeX Warning: There were multiply-defined labels.
-
+] (./im-ak-survey-implementation-plan.aux)
 Package rerunfilecheck Info: File `im-ak-survey-implementation-plan.out' has no
 t changed.
-(rerunfilecheck)             Checksum: AEB7AA312835617AF1521DE15780DC4F;2197.
+(rerunfilecheck)             Checksum: C2F4069D78ADE7577B64FEE9B959E434;2150.
  ) 
 Here is how much of TeX's memory you used:
- 14554 strings out of 478918
- 223562 string characters out of 5864811
- 542221 words of memory out of 5000000
- 34112 multiletter control sequences out of 15000+600000
+ 14557 strings out of 478918
+ 223594 string characters out of 5864811
+ 543305 words of memory out of 5000000
+ 34115 multiletter control sequences out of 15000+600000
  458608 words of font info for 72 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 83i,7n,88p,807b,578s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,7n,88p,882b,385s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on im-ak-survey-implementation-plan.pdf (26 pages).
+Output written on im-ak-survey-implementation-plan.pdf (27 pages).
