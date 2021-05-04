@@ -7,14 +7,13 @@ bookdown::gitbook:
         <li><a href="./">AK Survey Implementation Guide</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    view: |
-      https://github.com/mccrea-cobb/im-ak-survey-implementation-plan/blob/master/%s
-    edit: |
-      https://github.com/mccrea-cobb/im-ak-survey-implementation-plan/edit/master/%s
+    view: https://github.com/mccrea-cobb/im-ak-survey-implementation-plan/blob/master/%s
+    edit: https://github.com/mccrea-cobb/im-ak-survey-implementation-plan/edit/master/%s
     download: null
     sharing: 
       facebook: false
       twitter: false
+  number_sections: false
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
@@ -26,5 +25,5 @@ bookdown::pdf_book:
   template: template.tex
   latex_engine: xelatex
   citation_package: biblatex
-bookdown::epub_book:
-  stylesheet: style.css
+  number_sections: false
+

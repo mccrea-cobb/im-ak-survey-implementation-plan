@@ -1,7 +1,8 @@
 # Define the Problem or Question {-#define-problem}
 McCrea
 
-**"Extra time to craft a concise yet comprehensive and accurate problem definition pays off..."**  - Smart Choices
+> "Extra time to craft a concise yet comprehensive and accurate problem definition pays off..."  
+> --- Smart Choices
 
 The desired state of a [priority resource of concern] ([pROC]) is a decision framed around stakeholder values, and as such, the "problem" with the pROC is actually a decision as well. Since a refuge has already decided that a pROC is important, then there must be underlying reasons for this decision. Why is the [pROC] important? What is the question about the [pROC] that needs to be addressed? Fully answering these questions is arguably one of the most important steps in the survey development process because without this information, we can produce a I&M program that does not address the fundamental information need. 
 

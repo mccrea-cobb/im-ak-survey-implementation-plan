@@ -1,6 +1,7 @@
 # Introduction {-#introduction}
 
-**"Decisions require the integration of science with values, because in the end any decision is an attempt to achieve some future condition that is desirable to the decision maker" -Runge et al. 2013**
+> "Decisions require the integration of science with values, because in the end any decision is an attempt to achieve some future condition that is desirable to the decision maker."  
+> --- Runge et al. 2013
 
 This guide describes a transparent, defensible, consistent, and detailed process for developing and documenting SMART management objectives for priority Resources of Concern and completing Inventory and Monitoring Plans for refuge complexes that clearly fits into an adaptive management framework. 
 
