@@ -1,4 +1,5 @@
 # Write SMART Management Objectives {-#mgt-objectives}
+Jared
 
 The team, with support from I&M Technical Team, will develop SMART management objectives based on the parameterized mathematical model of the ROC “system”. 
 
