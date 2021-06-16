@@ -10,7 +10,7 @@ This guide describes a transparent, defensible, consistent, and detailed process
 The goal of refuge planning is to provide a basis for adaptive management by monitoring progress, evaluating plan implementation, and updating refuge plans accordingly (602 FW 1). Below are a list of objectives for the Alaska I&M Planning team.
 
 - Strategic:  Improve natural resource management decision-making for Alaska National Wildlife Refuges while building scientific knowledge for future management decision challenges.  Decisions include selecting priority resources, setting management objectives, identifying information needs, selecting natural resource surveys and identifying management actions. 
-- Fundamental: Maximize the transparency of the decision-making process and associated products. 
+- Fundamental: Maximize the transparency of the decision-making process and associated products. 
   - Strategy: Use SDM to guide decision making 
   - Strategy: Use conceptual models to illustrate complexity  
   - Strategy: Inform management decisions with data and evidence 
@@ -31,3 +31,10 @@ The goal of refuge planning is to provide a basis for adaptive management by mon
     - Strategy: Use technical tools (R-markdown, Shiny apps, etc.) 
   - Means:  Maximize the accessibility of products and data to internal and external audiences.* 
     - Strategy:  Follow FWS data management best practices 
+    
+## The Steps
+
+To meet this objective, this guide outlines a process that includes a number of steps.
+
+Here's an example of an embedded Miro object:
+<iframe width="768" height="432" src="https://miro.com/app/embed/o9J_lEDIrt0=/?pres=1&frameId=3074457358785988446" frameBorder="0" scrolling="no" allowFullScreen></iframe>
