@@ -1,9 +1,11 @@
 # Introduction {-#introduction}
 
+Author: all
+
 > "Decisions require the integration of science with values, because in the end any decision is an attempt to achieve some future condition that is desirable to the decision maker."  
 > --- Runge et al. 2013
 
-This guide describes a transparent, defensible, consistent, and detailed process for developing and documenting SMART management objectives for priority Resources of Concern and completing Inventory and Monitoring Plans for refuge complexes that clearly fits into an adaptive management framework. 
+This guide describes a transparent, defensible, consistent, and detailed process for developing and documenting conservation objectives that fit into an adaptive management framework for a priority Resources of Concern ([pROC]) to guide refuge Inventory and Monitoring Plan development. 
 
 ## Objectives {-#objectives}
 
@@ -19,12 +21,12 @@ The goal of refuge planning is to provide a basis for adaptive management by mon
   - Strategy: Use SHC guidance/adaptive management framework 
 
 - Fundamental: Maximize the rigor of natural resource plans (e.g., draft NRMPs, IMPs).* 
-  - Means: MakeMaximize use of existing refuge survey data, scientific literature, etc. 
+  - Means: Maximize use of existing refuge survey data, scientific literature, etc. 
     - Strategy: Consider species pROC ecology (e.g., habitat needs and drivers)  
     - Strategy: Create strong connections between survey data and management objectives 
   - Means: Maximize  use of current our understanding of the impacts of key threats or stressors on refuge species and ecosystems, especially climate change as part of the planning process.* 
 
-- Fundamental: Increase the number of refuges that have documented SMART wildlife and ecosystem management objectives.*  
+- Fundamental: Increase the number of refuges that have documented wildlife and ecosystem management objectives.*  
   - Means: Maximize the efficiency of the decision-making process (i.e., meet Chief’s Challenge deadline of IMPs by Sept 2023). 
   - Means: Minimize employee time  
   - Means: Maximize use of employee resources and expertise  
@@ -34,7 +36,14 @@ The goal of refuge planning is to provide a basis for adaptive management by mon
     
 ## The Steps
 
-To meet this objective, this guide outlines a process that includes a number of steps.
+To meet this objective, the chapters in this guide outline the recommended steps. This is not completely linear process; there will likely be times when you will need to revisit earlier steps with updated information.
 
 Here's an example of an embedded Miro object:
 <iframe width="768" height="432" src="https://miro.com/app/embed/o9J_lEDIrt0=/?pres=1&frameId=3074457358785988446" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+
+## Estimated Time Commitment
+
+
+## Roles and Responsibilities
+
+

@@ -1,6 +1,12 @@
 --- 
-pdf-title: "Survey Implementation Plan"
-title: "The Alaska I&M Survey Implementation Plan"
+pdf-title: |
+    | A Structured Approach to Identifying Refuge Surveys for a Priority Resource of Concern
+    |
+    | "The Cookbook"
+title: |
+    | A Structured Approach to Identifying Refuge Surveys for a Priority Resource of Concern
+    |
+    | "The Cookbook"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]

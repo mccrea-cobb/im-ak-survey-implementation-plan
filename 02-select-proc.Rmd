@@ -1,4 +1,5 @@
 # Selecting a priority resource of concern {-#select-proc}
-Kristin
+
+Author: Kristin
 
 Refuge staff will select one priority resource of concern (pROC) to move through the planning process and develop “one-ROC IMPs.” pROCs are defined as a resources of concern, selected by refuge staff during the ROC prioritization process, that have critical information needs and/or require management actions to conserve and are therefore the top candidates for associated survey development. The purpose of selecting one pROC is to increase the efficiency of moving through the planning process, increase scientific rigor of outcomes and, ultimately, increase the feasibility of refuge staff to be able to complete surveys. I&M staff may assist refuges in selecting a pROC by providing guidance. As part of this step, we will also identify team members and their roles.   

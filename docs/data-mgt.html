@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Develop the Mathematical Model | im-ak-survey-implementation-plan</title>
+  <title>Gather Information | im-ak-survey-implementation-plan</title>
   <meta name="description" content="A guide to creating surveys for priority resources of concern at National Wildlife Refuges in Alaska" />
   <meta name="generator" content="bookdown 0.22 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Develop the Mathematical Model | im-ak-survey-implementation-plan" />
+  <meta property="og:title" content="Gather Information | im-ak-survey-implementation-plan" />
   <meta property="og:type" content="book" />
   <meta property="og:url" content="https://mccrea-cobb.github.io/im-ak-survey-implementation-plan/" />
   
@@ -16,7 +16,7 @@
   <meta name="github-repo" content="mccrea-cobb/im-ak-survey-implementation-plan" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Develop the Mathematical Model | im-ak-survey-implementation-plan" />
+  <meta name="twitter:title" content="Gather Information | im-ak-survey-implementation-plan" />
   
   <meta name="twitter:description" content="A guide to creating surveys for priority resources of concern at National Wildlife Refuges in Alaska" />
   
@@ -29,8 +29,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="objectives-hierarchy.html"/>
-<link rel="next" href="mgt-objectives.html"/>
+<link rel="prev" href="identify-team.html"/>
+<link rel="next" href="define-problem.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -124,28 +124,62 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="math-model" class="section level1 unnumbered">
-<h1>Develop the Mathematical Model</h1>
-<p>Author: Jared</p>
-<p>The team, with support from I&amp;M Technical Team, will translate the conceptual model of the pROC “system” to a mathematical model and parameterize the model with values based on existing data, reported estimates, or solicited professional opinions.</p>
-<p>The purpose of the mathematical model is to:</p>
+<div id="data-mgt" class="section level1 unnumbered">
+<h1>Gather Information</h1>
+<p>Author: McCrea</p>
+<p>After you have identified a <a href="glossary.html#proc">pROC</a> and formed a team to identify the information needs for the <a href="glossary.html#proc">pROC</a>, one of the first steps is manage existing data pertaining to the <a href="glossary.html#proc">pROC</a>.
+The team will gather relevant data and information, including literature, existing models, refuge data sources (reports, raw data).</p>
+<div id="resources-and-guidance" class="section level2">
+<h2>Resources and Guidance</h2>
+<div id="general-guidance" class="section level3">
+<h3>General Guidance</h3>
 <ul>
-<li>Represent our current understanding of the ecological functioning of the pROC in a quantifiable form, given its conservation and management context expressed through the fundamental objective</li>
-<li>Organize information for the pROC into a unified, transparent framework that facilitates rapid feedback of new information into management and survey decision making</li>
-<li>Identify key resource attributes and principal external drivers important to achieving the conservation goal for the pROC</li>
-<li>Identify candidate specific and measurable means objectives for key resource attributes necessary to achieve conservation goal</li>
-<li>Determine specific and measurable states or effects of principal external drivers necessary to achieve candidate means objectives</li>
-<li>If applicable, represent alternatives for a variety of decision problems in a quantifiable form that can be used to identify optimal decisions given predetermined constraints</li>
+<li><a href="https://ak-region-dst.gitbook.io/alaska-region-interim-data-management-user-guide/">Alaska Region Interim Data Management User Guide</a></li>
+<li><a href="https://doimspp.sharepoint.com/sites/fws-data/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Ffws-data%2FShared%20Documents%2FDataManagementHandbook%2Epdf&amp;parent=%2Fsites%2Ffws-data%2FShared%20Documents">FWS Data Management Handbook</a></li>
+<li><a href="https://doimspp.sharepoint.com/sites/fws-data/SitePages/Home.aspx">FWS Data Management Sharepoint</a></li>
+</ul>
+</div>
+<div id="catalogs-and-repositories" class="section level3">
+<h3>Catalogs and Repositories</h3>
+<ul>
+<li><a href="https://ecos.fws.gov/ServCat/">ServCat</a></li>
+<li><a href="https://www.sciencebase.gov/catalog/">USGS ScienceBase</a></li>
+</ul>
+</div>
+<div id="data-management-plans" class="section level3">
+<h3>Data Management Plans</h3>
+<ul>
+<li><a href="https://doi.org/10.7944/P9S71Q0W">Alaska Region Data Management Plan Guidance</a></li>
+<li><a href="https://ecos.fws.gov/ServCat/Reference/Profile/132238">Alaska Fisheries and Ecological Services Data Management Plan Template</a></li>
+<li><a href="https://doimspp.sharepoint.com/sites/fws-data/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Ffws-data%2FShared%20Documents%2FDataManagementHandbook%2Epdf&amp;parent=%2Fsites%2Ffws-data%2FShared%20Documents">FWS Data Management Handbook</a></li>
+</ul>
+</div>
+<div id="metadata" class="section level3">
+<h3>Metadata</h3>
+<ul>
+<li><a href="www.mdeditor.org">mdEditor</a></li>
+<li><a href="https://guide.mdeditor.org/">mdEditor User Guide</a></li>
+<li><a href="https://guide.mdeditor.org/tutorial/welcome-to-tutorial.html">mdEditor Tutorial</a></li>
+<li><a href="https://ak-region-dst.gitbook.io/alaska-region-mdeditor-interim-user-guide/">Alaska Region Interim Metadata Guide</a></li>
+</ul>
+</div>
+<div id="tidy-data" class="section level3">
+<h3>Tidy Data</h3>
+<ul>
+<li><a href="https://www.jstatsoft.org/index.php/jss/article/view/v059i10/v59i10.pdf">Wickham, H. 2014. Tidy Data. Journal of Statistical Software. 59:10.</a></li>
+<li><a href="https://doimspp.sharepoint.com/sites/fws-FF07S00000-data/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Ffws%2DFF07S00000%2Ddata%2FShared%20Documents%2FHow%20To%20Tidy%20Up%20Your%20Data%2Epdf&amp;parent=%2Fsites%2Ffws%2DFF07S00000%2Ddata%2FShared%20Documents">How to Tidy Up Your Data (AK Region Summary)</a></li>
 </ul>
 
+</div>
+</div>
 </div>
             </section>
 
           </div>
         </div>
       </div>
-<a href="objectives-hierarchy.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="mgt-objectives.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="identify-team.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="define-problem.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -177,7 +211,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "github.com/mccrea-cobb/im-ak-survey-implementation-plan/edit/master/09-math-model.Rmd",
+"link": "github.com/mccrea-cobb/im-ak-survey-implementation-plan/edit/master/04-data-mgt.Rmd",
 "text": "Edit"
 },
 "history": {
@@ -185,7 +219,7 @@ gitbook.start({
 "text": null
 },
 "view": {
-"link": "github.com/mccrea-cobb/im-ak-survey-implementation-plan/blob/master/09-math-model.Rmd",
+"link": "github.com/mccrea-cobb/im-ak-survey-implementation-plan/blob/master/04-data-mgt.Rmd",
 "text": null
 },
 "download": ["im-ak-survey-implementation-plan.pdf"],

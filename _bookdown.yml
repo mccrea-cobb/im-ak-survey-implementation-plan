@@ -2,10 +2,6 @@ book_filename: "im-ak-survey-implementation-plan"
 chapter_name: ""
 repo: https://github.com/mccrea-cobb/im-ak-survey-implementation-plan
 output_dir: docs
-rmd_files: ["index.Rmd", "01-introduction.Rmd", "02-select-proc.Rmd", 
-"03-define-problem.Rmd", "04-state-goal.Rmd", "05-concept-model.Rmd",
-"06-math-model.Rmd", "07-mgt-objectives.Rmd", "08-results-chains.Rmd", 
-"09-surveys.Rmd", "10-document.Rmd", "11-glossary.Rmd", "12-references.Rmd"]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
 delete_merged_file: true

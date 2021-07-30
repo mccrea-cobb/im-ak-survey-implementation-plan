@@ -1,0 +1,8 @@
+# State the Fundamental Objective {-#state-objective}
+
+Author: McCrea
+
+
+Developing a clear and meaningful fundamental objective is a critical step in the decision-making process. Doing so will reduce the likelihood of not addressing all the stakeholders values and overlooking hidden objectives that could later unknowingly influence the process. 
+
+In this step, the team will draft a goal statement for the pROC. This will be completed in a workshop setting, often combined with the [Defining the Problem][define-problem] step. The [goal] statement is equivalent to a Fundamental Objective in Structured Decision-making. It is defined as a “a descriptive, open-ended, and often broad statement of desired future conditions that conveys a purpose, but does not define measurable units” ([Writing Refuge Management Goals and Objectives: A Handbook](https://www.fws.gov/refuges/policiesandbudget/pdfs/writingrefugegoals_022504.pdf)). It is visionary, not [SMART];  it’s what we care about “just because” and it captures our values by making clear connections between a refuge’s vision and CCP goals/objectives. 

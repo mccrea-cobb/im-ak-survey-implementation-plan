@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.4.26)  4 MAY 2021 12:09
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.4.26)  30 JUL 2021 12:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7,9 +7,9 @@ entering extended mode
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf
 -dist/tex/latex/base/book.cls
-Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+Document Class: book 2021/02/12 v1.4n Standard LaTeX document class
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/bk10.clo
-File: bk10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+File: bk10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count175
 \c@chapter=\count176
@@ -78,7 +78,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ))
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.st
 y
-Package: amsmath 2020/09/23 v2.17i AMS math features
+Package: amsmath 2021/04/20 v2.17j AMS math features
 \@mathmargin=\skip49
 For additional information on amsmath, use the `?' option.
 
@@ -170,7 +170,7 @@ File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
 sty
 Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/array.sty
-Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
 \col@sep=\dimen148
 \ar@mcellbox=\box49
 \extrarowheight=\dimen149
@@ -289,14 +289,14 @@ Already applied: [0000/00/00] float order in 2-column on input line 151.
 sty
 Package: placeins 2005/04/18  v 2.2
 ) (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
 2.
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )) (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/inputenc.s
 ty
-Package: inputenc 2020/08/01 v1.3d Input encoding file
+Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks26
 \inpenc@posthook=\toks27
 
@@ -313,7 +313,7 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphics.
 sty
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
@@ -321,20 +321,19 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 ics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: xetex.def on input line 105.
+Package graphics Info: Driver file: xetex.def on input line 107.
 ))
 Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 
 
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.
 sty
-Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
-ge
-with kernel methods
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
 ))
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.
 sty
-Package: titlesec 2019/10/16 v2.13 Sectioning titles
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box52
 \beforetitleunit=\skip73
 \aftertitleunit=\skip74
@@ -367,7 +366,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.
 sty
-Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
 
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.
 sty
@@ -420,11 +419,11 @@ Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.de
 f
-File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
 )
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref-
 langpatches.def
-File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
 nguages
 )
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.
@@ -438,7 +437,7 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 \Hy@SavedSpaceFactor=\count273
 
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Hyper figures OFF on input line 4192.
 Package hyperref Info: Link nesting OFF on input line 4197.
@@ -467,15 +466,15 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 \Fld@menulength=\count275
 \Field@Width=\dimen174
 \Fld@charsize=\dimen175
-Package hyperref Info: Hyper figures OFF on input line 6075.
-Package hyperref Info: Link nesting OFF on input line 6080.
-Package hyperref Info: Hyper index ON on input line 6083.
-Package hyperref Info: backreferencing OFF on input line 6090.
-Package hyperref Info: Link coloring OFF on input line 6095.
-Package hyperref Info: Link coloring with OCG OFF on input line 6100.
-Package hyperref Info: PDF/A mode OFF on input line 6105.
-LaTeX Info: Redefining \ref on input line 6145.
-LaTeX Info: Redefining \pageref on input line 6149.
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
 \Hy@abspage=\count276
 \c@Item=\count277
 \c@Hfootnote=\count278
@@ -484,7 +483,7 @@ Package hyperref Info: Driver (autodetected): hxetex.
 
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.de
 f
-File: hxetex.def 2021-02-27 v7.00k Hyperref driver for XeTeX
+File: hxetex.def 2021-06-07 v7.00m Hyperref driver for XeTeX
 
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/stringenc/string
 enc.sty
@@ -521,7 +520,7 @@ Package hyperref Info: Option `breaklinks' set `true' on input line 64.
 
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/longtable.st
 y
-Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+Package: longtable 2021-05-07 v4.16 Multi-page Table package (DPC)
 \LTleft=\skip76
 \LTright=\skip77
 \LTpre=\skip78
@@ -532,6 +531,7 @@ Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \LT@firsthead=\box55
 \LT@foot=\box56
 \LT@lastfoot=\box57
+\LT@gbox=\box58
 \LT@cols=\count284
 \LT@rows=\count285
 \c@LT@tables=\count286
@@ -561,7 +561,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 )
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.
 sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
 \Gin@req@height=\dimen190
 \Gin@req@width=\dimen191
 )
@@ -585,23 +585,23 @@ y
 \wrapoverhang=\dimen193
 \WF@size=\dimen194
 \c@WF@wrappedlines=\count293
-\WF@box=\box58
+\WF@box=\box59
 \WF@everypar=\toks31
 Package: wrapfig 2003/01/31  v 3.6
 ) (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count294
 \float@exts=\toks32
-\float@box=\box59
+\float@box=\box60
 \@float@everytoks=\toks33
-\@floatcapt=\box60
+\@floatcapt=\box61
 ) (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tabu/tabu.sty
 Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
 
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/varwidth/varwidth.
 sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box61
+\@vwid@box=\box62
 \sift@deathcycles=\count295
 \@vwid@loff=\dimen195
 \@vwid@roff=\dimen196
@@ -623,16 +623,16 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \tabustrutrule=\dimen261
 \tabu@thebody=\toks34
 \tabu@footnotes=\toks35
-\tabu@box=\box62
-\tabu@arstrutbox=\box63
-\tabu@hleads=\box64
-\tabu@vleads=\box65
+\tabu@box=\box63
+\tabu@arstrutbox=\box64
+\tabu@hleads=\box65
+\tabu@vleads=\box66
 \tabu@cellskip=\skip82
 )
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/threeparttable/thr
 eeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box66
+\@tempboxb=\box67
 )
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/threeparttablex/th
 reeparttablex.sty
@@ -648,14 +648,14 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
 \TPTL@width=\skip83
 ) (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ulem/ulem.sty
-\UL@box=\box67
-\UL@hyphenbox=\box68
+\UL@box=\box68
+\UL@hyphenbox=\box69
 \UL@skip=\skip84
 \UL@hook=\toks36
 \UL@height=\dimen262
 \UL@pe=\count302
 \UL@pixel=\dimen263
-\ULC@box=\box69
+\ULC@box=\box70
 Package: ulem 2019/11/18
 \ULdepth=\dimen264
 )
@@ -670,7 +670,7 @@ Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 sty
 Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 ) (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count304
@@ -699,56 +699,56 @@ ef
 File: ppxetex.def 2021/03/06 v0.5t Pdfpages driver for XeTeX (AM)
 )
 \pdfpages@includegraphics@status=\count307
-\AM@pagebox=\box70
+\AM@pagebox=\box71
 \AM@global@opts=\toks38
 \AM@pagecnt=\count308
 \AM@toc@title=\toks39
 \c@AM@survey=\count309
-\AM@templatesizebox=\box71
+\AM@templatesizebox=\box72
 )
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backen
 d-xetex.def
-File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
+File: l3backend-xetex.def 2021-07-12 L3 backend support: XeTeX
 (|extractbb --version)
 \c__kernel_sys_dvipdfmx_version_int=\count310
 \l__color_backend_stack_int=\count311
 \g__color_backend_stack_int=\count312
 \g__graphics_track_int=\count313
-\l__pdf_internal_box=\box72
+\l__pdf_internal_box=\box73
 \g__pdf_backend_object_int=\count314
 \g__pdf_backend_annotation_int=\count315
 \g__pdf_backend_link_int=\count316
 ) (./im-ak-survey-implementation-plan.aux)
 \openout1 = `im-ak-survey-implementation-plan.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 144.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 146.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-44.
+46.
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-Package ragged2e Info: ABD: executing \RaggedRight on input line 144.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+Package ragged2e Info: ABD: executing \RaggedRight on input line 146.
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 144.
+LaTeX Info: Redefining \selectfont on input line 146.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -795,7 +795,7 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 144.
+Package hyperref Info: Link coloring OFF on input line 146.
 
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.s
 ty
@@ -811,9 +811,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count317
 )
-LaTeX Info: Redefining \ref on input line 144.
-LaTeX Info: Redefining \pageref on input line 144.
-LaTeX Info: Redefining \nameref on input line 144.
+LaTeX Info: Redefining \ref on input line 146.
+LaTeX Info: Redefining \pageref on input line 146.
+LaTeX Info: Redefining \nameref on input line 146.
 (./im-ak-survey-implementation-plan.out) (./im-ak-survey-implementation-plan.ou
 t)
 \@outlinefile=\write3
@@ -822,37 +822,37 @@ t)
 File: images/fws_logo.png Graphic file (type bmp)
 <images/fws_logo.png>
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-48.
+50.
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-48.
+50.
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-148.
+150.
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-148.
+150.
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 148.
+(Font)              <12> on input line 150.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 148.
+(Font)              <8> on input line 150.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 148.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 148
+(Font)              <6> on input line 150.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 150
 .
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 148
+LaTeX Font Info:    Trying to load font information for U+msb on input line 150
 .
 (c:/Users/mcobb/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -883,61 +883,77 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 ]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 184.
+(hyperref)                be the same. Added a new anchor on input line 188.
 
-[3] [4
 
-] [5] [6
+Underfull \hbox (badness 1087) in paragraph at lines 235--236
+[]\T1/lmr/m/n/10 Fundamental: In-crease the num-ber of refuges that have doc-u-
+mented wildlife and ecosys-tem 
+ []
+
+[3]
+Underfull \hbox (badness 1466) in paragraph at lines 265--266
+\T1/lmr/m/n/10 lin-ear pro-cess; there will likely be times when you will need 
+to re-visit ear-lier steps with up-dated 
+ []
+
+[4] [5
+
+] [6
+
+] [7] [8
+
+] [9] [10
 
 ]
-Underfull \hbox (badness 1259) in paragraph at lines 305--306
+Underfull \hbox (badness 1259) in paragraph at lines 405--406
 []\T1/lmr/m/n/10 How large, broad, or com-pli-cated is the prob-lem and the de-
 ci-sion about the []pROC[]? What is the 
  []
 
-[7] [8] [9
+[11] [12] [13
 
-] [10
+] [14
 
-] [11] [12
-
-]
-Underfull \hbox (badness 2005) in paragraph at lines 392--394
-[]\T1/lmr/m/n/10 Identify key re-source at-tributes and prin-ci-pal ex-ter-nal 
-drivers im-por-tant to achiev-ing the 
- []
-
-[13] [14
-
-]
-Underfull \hbox (badness 1783) in paragraph at lines 409--410
-[]\T1/lmr/m/n/10 SMART man-age-ment ob-jec-tives are con-sid-ered means ob-jec-
-tives in that they are the means by 
- []
-
-[15] [16
+] [15] [16
 
 ] [17] [18
 
 ]
-Underfull \hbox (badness 1424) in paragraph at lines 446--446
-[]\T1/lmr/m/n/10 ``Monitoring can play >3 roles: to pro-vide in-for-ma-tion nec
--es-sary for state-dependent 
+Underfull \hbox (badness 2005) in paragraph at lines 508--510
+[]\T1/lmr/m/n/10 Identify key re-source at-tributes and prin-ci-pal ex-ter-nal 
+drivers im-por-tant to achiev-ing the 
  []
 
 [19] [20
 
-] [21] [22
+]
+Underfull \hbox (badness 1783) in paragraph at lines 525--526
+[]\T1/lmr/m/n/10 SMART man-age-ment ob-jec-tives are con-sid-ered means ob-jec-
+tives in that they are the means by 
+ []
 
-] [23]
-Underfull \hbox (badness 1199) in paragraph at lines 579--580
+[21] [22
+
+]
+Underfull \hbox (badness 1424) in paragraph at lines 554--554
+[]\T1/lmr/m/n/10 ``Monitoring can play >3 roles: to pro-vide in-for-ma-tion nec
+-es-sary for state-dependent 
+ []
+
+[23] [24
+
+] [25] [26
+
+] [27]
+Underfull \hbox (badness 1199) in paragraph at lines 683--684
 []\T1/lmr/bx/n/10 S\T1/lmr/m/n/10 pecific, \T1/lmr/bx/n/10 M\T1/lmr/m/n/10 easu
 rable, \T1/lmr/bx/n/10 A\T1/lmr/m/n/10 chievable, \T1/lmr/bx/n/10 R\T1/lmr/m/n/
 10 esults-oriented, and \T1/lmr/bx/n/10 T\T1/lmr/m/n/10 ime-fixed. De-fined in 
 []``Writ-ing Refuge 
  []
 
-[24]
+[28]
 
 Package caption Warning: Unused \captionsetup[table] on input line 15.
 See the caption package documentation for explanation.
@@ -946,20 +962,20 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[figure] on input line 16.
 See the caption package documentation for explanation.
 
-[25
+[29
 
 ] (./im-ak-survey-implementation-plan.aux)
 Package rerunfilecheck Info: File `im-ak-survey-implementation-plan.out' has no
 t changed.
-(rerunfilecheck)             Checksum: 69CA73A3C36420EE9A6508EBAC84488A;2153.
+(rerunfilecheck)             Checksum: DC827A8A0ABE53E3211D898F7197C5C4;3491.
  ) 
 Here is how much of TeX's memory you used:
- 14555 strings out of 478918
- 223562 string characters out of 5864811
- 542745 words of memory out of 5000000
- 34113 multiletter control sequences out of 15000+600000
- 458608 words of font info for 72 fonts, out of 8000000 for 9000
+ 14581 strings out of 478918
+ 224051 string characters out of 5864811
+ 544134 words of memory out of 5000000
+ 34139 multiletter control sequences out of 15000+600000
+ 461606 words of font info for 73 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 83i,7n,88p,971b,385s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,7n,88p,997b,590s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on im-ak-survey-implementation-plan.pdf (27 pages).
+Output written on im-ak-survey-implementation-plan.pdf (31 pages).

@@ -24,6 +24,6 @@ bookdown::pdf_book:
     before_body: frontpage.tex
   template: template.tex
   latex_engine: xelatex
-  citation_package: biblatex
+  citation_package: default
   number_sections: false
 

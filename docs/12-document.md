@@ -1,5 +1,6 @@
 # Document and Archive {-#document}
-McCrea
+
+Author: McCrea
 
 The final step will be to archive the data, products, and metadata generated from this effort in ServCat. All data and products will be documented with mdEditor metadata records (JSON files) that follow the regional metadata product profile. The data and products will include: 
 
