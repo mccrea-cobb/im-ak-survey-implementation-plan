@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Gather Information | im-ak-survey-implementation-plan</title>
   <meta name="description" content="A guide to creating surveys for priority resources of concern at National Wildlife Refuges in Alaska" />
-  <meta name="generator" content="bookdown 0.22 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Gather Information | im-ak-survey-implementation-plan" />
   <meta property="og:type" content="book" />
@@ -31,7 +31,8 @@
   
 <link rel="prev" href="identify-team.html"/>
 <link rel="next" href="define-problem.html"/>
-<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -39,7 +40,6 @@
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
-
 
 
 
@@ -126,7 +126,6 @@
             <section class="normal" id="section-">
 <div id="data-mgt" class="section level1 unnumbered">
 <h1>Gather Information</h1>
-<p>Author: McCrea</p>
 <p>After you have identified a <a href="glossary.html#proc">pROC</a> and formed a team to identify the information needs for the <a href="glossary.html#proc">pROC</a>, one of the first steps is manage existing data pertaining to the <a href="glossary.html#proc">pROC</a>.
 The team will gather relevant data and information, including literature, existing models, refuge data sources (reports, raw data).</p>
 <div id="resources-and-guidance" class="section level2">
@@ -183,7 +182,6 @@ The team will gather relevant data and information, including literature, existi
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -223,6 +221,10 @@ gitbook.start({
 "text": null
 },
 "download": ["im-ak-survey-implementation-plan.pdf"],
+"search": {
+"engine": "fuse",
+"options": null
+},
 "toc": {
 "collapse": "subsection"
 }

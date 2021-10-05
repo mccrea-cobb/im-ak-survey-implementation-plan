@@ -1,6 +1,6 @@
 # Introduction {-#introduction}
 
-Author: all
+Last updated: 2021-10-05
 
 > "Decisions require the integration of science with values, because in the end any decision is an attempt to achieve some future condition that is desirable to the decision maker."  
 > --- Runge et al. 2013

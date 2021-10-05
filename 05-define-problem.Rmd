@@ -1,7 +1,5 @@
 # Define the Problem or Question {-#define-problem}
 
-Author: McCrea
-
 > "Extra time to craft a concise yet comprehensive and accurate problem definition pays off..."  
 > --- Smart Choices
 

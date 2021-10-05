@@ -1,7 +1,5 @@
 # Identify and Prioritize Surveys {-#prioritize-surveys}
 
-Author: McCrea
-
 > "Monitoring can play >3 roles: to provide information necessary for state-dependent decision-making, to evaluate management performance, and to facilitate improved management through learning."  
 > --- Nichols and Williams 2006
 

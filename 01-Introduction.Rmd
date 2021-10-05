@@ -1,6 +1,6 @@
 # Introduction {-#introduction}
 
-Author: all
+Last updated: `r Sys.Date()`
 
 > "Decisions require the integration of science with values, because in the end any decision is an attempt to achieve some future condition that is desirable to the decision maker."  
 > --- Runge et al. 2013

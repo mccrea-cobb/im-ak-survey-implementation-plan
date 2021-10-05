@@ -1,7 +1,5 @@
 # Develop the Mathematical Model {-#math-model}
 
-Author: Jared
-
 The team, with support from I&M Technical Team, will translate the conceptual model of the pROC “system” to a mathematical model and parameterize the model with values based on existing data, reported estimates, or solicited professional opinions. 
 
 The purpose of the mathematical model is to: 

@@ -1,7 +1,5 @@
 # Write SMART Management Objectives {-#mgt-objectives}
 
-Author: Jared
-
 The team, with support from I&M Technical Team, will develop SMART management objectives based on the parameterized mathematical model of the ROC “system”. 
 
 SMART management objectives are considered means objectives in that they are the means by which we achieve our fundamental objective (e.g., Conservation Goal) through management actions.  However, management objectives may differ from broader means objectives (see above) that may not be “achievable” or “results oriented” in the typical context of SMART Refuge management objectives.   

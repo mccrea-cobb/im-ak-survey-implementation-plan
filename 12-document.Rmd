@@ -1,7 +1,5 @@
 # Document and Archive {-#document}
 
-Author: McCrea
-
 The final step will be to archive the data, products, and metadata generated from this effort in ServCat. All data and products will be documented with mdEditor metadata records (JSON files) that follow the regional metadata product profile. The data and products will include: 
 
 - A final report (PDF) describing the results of the “Defining the Problem” step, a description and figure of the conceptual model, and tables of management objectives 

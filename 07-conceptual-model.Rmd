@@ -1,7 +1,5 @@
 # Develop the Conceptual Model {-#develop-conceptual-model}
 
-Author: Jared
-
 The team, with support from I&M, will sketch out a conceptual model focused on factors that contribute to achieving the conservation goal of the pROC. 
 
 The purpose of a conceptual model is to: 

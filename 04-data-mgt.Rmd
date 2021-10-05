@@ -1,7 +1,5 @@
 # Gather Information {-#data-mgt}
 
-Author: McCrea
-
 After you have identified a [pROC] and formed a team to identify the information needs for the [pROC], one of the first steps is manage existing data pertaining to the [pROC]. 
 The team will gather relevant data and information, including literature, existing models, refuge data sources (reports, raw data).
 
